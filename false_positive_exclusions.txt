@@ -3,6 +3,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -14,12 +15,10 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LiveJournal
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -30,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
